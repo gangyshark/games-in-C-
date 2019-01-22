@@ -1,0 +1,10 @@
+dog
+cat
+hog
+moose
+zeebra
+bear
+rat
+hamster
+penguin
+walrus
